@@ -1,0 +1,4 @@
+virtual_environment_endpoint     = "https://[PROXMOX_IP]:8006/api2/json"
+virtual_environment_ssh_username = "CLOUD INIT SSH USER"
+virtual_environment_api_password = "PROXMOX USER PASSWORD"
+virtual_environment_api_username = "PROXMOX USERNAME: user@pam"
